@@ -164,10 +164,7 @@ Sesuaikan delay sesuai kebutuhan untuk menghindari rate limiting
 ## ✨ Donasi
 > Jika bot ini membantu, pertimbangkan untuk berdonasi ke:
 
-link :  https://digital.dompetdhuafa.org/donasi/
-jagapalestina?gad_source=1&gad_campaignid=19753975814&gbraid=0AAAAADAhM1vRaR8mSk
-tNHoNTW0ZytKlxb&gclid=Cj0KCQjwucDBBhDxARIsANqFdr2JxZgjGKTdpImD7icmr6UG3c6XnjjAKe
-83JIZeCR3MtFc64nHIscwaAg0UEALw_wcB
+link :  https://digital.dompetdhuafa.org/donasi/jagapalestina?gad_source=1&gad_campaignid=19753975814&gbraid=0AAAAADAhM1vRaR8mSktNHoNTW0ZytKlxb&gclid=Cj0KCQjwucDBBhDxARIsANqFdr2JxZgjGKTdpImD7icmr6UG3c6XnjjAKe83JIZeCR3MtFc64nHIscwaAg0UEALw_wcB
 
 Atau melalui link donasi Palestina yang tertera di banner
 
