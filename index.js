@@ -56,7 +56,9 @@ cfonts.say("SOUIY", {
   maxLength: "0",
 });
 console.log(centerText("=== TIKTOK 🚀 : AirdropRefferal (@souiy1) ==="));
-console.log(centerText("=== Satukan Solidaritas Bantu Palestina https://digital.dompetdhuafa.org/donasi/jagapalestina?gad_source=1&gad_campaignid=19753975814&gbraid=0AAAAADAhM1vRaR8mSktNHoNTW0ZytKlxb&gclid=Cj0KCQjwucDBBhDxARIsANqFdr2JxZgjGKTdpImD7icmr6UG3c6XnjjAKe83JIZeCR3MtFc64nHIscwaAg0UEALw_wcB Innalillahi! Lebih dari 50.983 syahid terbunuh, 70% korban anak-anak dan perempuan. Kuatkan solidaritas sekarang! ==="));
+console.log(centerText("=== Satukan Solidaritas Bantu Palestina! ==="));
+console.log(centerText("=== Innalillahi! Lebih dari 50.983 syahid terbunuh, 70% korban anak-anak dan perempuan. Kuatkan solidaritas sekarang! ==="));
+console.log(centerText("=== https://digital.dompetdhuafa.org/donasi/jagapalestina?gad_source=1&gad_campaignid=19753975814&gbraid=0AAAAADAhM1vRaR8mSktNHoNTW0ZytKlxb&gclid=Cj0KCQjwucDBBhDxARIsANqFdr2JxZgjGKTdpImD7icmr6UG3c6XnjjAKe83JIZeCR3MtFc64nHIscwaAg0UEALw_wcB ==="));
 
 let proxyUrl = null;
 let agent = null;
